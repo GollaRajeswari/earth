@@ -1,0 +1,16 @@
+a{
+            font-size: 22px;
+            text-decoration: none;
+        }
+
+        button{
+            font-size: 20px;
+            color: black;
+            border: none;
+            border-radius: 12px;
+            cursor: pointer;
+        }
+
+        button:hover{
+            background-color:rgb(158, 200, 237);
+        }

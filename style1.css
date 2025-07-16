@@ -1,0 +1,29 @@
+    a{
+            font-size: 22px;
+            text-decoration: none;
+        }
+
+        button{
+            font-size: 20px;
+            color: black;
+            border: none;
+            border-radius: 12px;
+            cursor: pointer;
+        }
+
+        button:hover{
+            background-color:rgb(158, 200, 237);
+        }
+    body{
+    background:linear-gradient(rgb(50, 222, 82),rgb(77, 110, 240),rgb(238, 18, 201));
+}
+li{
+    color: aliceblue;
+    font-size: 18px;
+    text-align: justify;
+}
+p{
+    color: aliceblue;
+    font-size: 18px;
+    text-align: justify;
+}

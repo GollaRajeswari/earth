@@ -1,0 +1,89 @@
+a{
+            font-size: 22px;
+            text-decoration: none;
+        }
+
+        button{
+            font-size: 20px;
+            color: black;
+            border: none;
+            border-radius: 12px;
+            cursor: pointer;
+        }
+
+        button:hover{
+            background-color:rgb(158, 200, 237);
+        }
+body{
+    background:radial-gradient(rgb(10, 218, 69),rgb(76, 32, 139),rgb(238, 18, 201))
+}
+
+    
+    h2{
+        background:white;
+    }
+    #colosseum{
+           display: flex;
+            align-items: center;
+            padding: 5px;
+            border:3px solid brown;
+            background-color:#dcdedf;
+            border-radius: 10px;
+            text-align:justify;
+            font-size: 18px;
+        }
+        #gate{
+            display: flex;
+            align-items: center;
+            padding:20px;
+           border:3px solid brown;
+            background-color:#dcdedf;
+            text-align:justify;
+            font-size: 18px;
+        }
+ #taj{
+            display: flex;
+            align-items: center;
+            padding:20px;
+           border:3px solid brown;
+            background-color:#dcdedf;
+           text-align:justify;
+            font-size: 18px;
+        }
+ #chr{
+            display: flex;
+            align-items: center;
+            padding:20px;
+           border:3px solid brown;
+            background-color:#dcdedf;
+           text-align:justify;
+            font-size: 18px;
+        }
+       
+         #machu{
+            display: flex;
+            align-items: center;
+            padding:20px;
+           border:3px solid brown;
+            background-color:#dcdedf;
+           text-align:justify;
+            font-size: 18px;
+        }
+         #chich{
+            display: flex;
+            align-items: center;
+            padding:20px;
+           border:3px solid brown;
+            background-color:#dcdedf;
+           text-align:justify;
+            font-size: 18px;
+        }
+         #petra{
+            display: flex;
+            align-items: center;
+            padding:20px;
+           border:3px solid brown;
+            background-color:#dcdedf;
+           text-align:justify;
+            font-size: 18px;
+        }
